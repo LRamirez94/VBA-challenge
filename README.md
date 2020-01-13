@@ -1,2 +1,2 @@
 # VBA-challenge
-This repository will be for the vba homework at USC Data Analytics Bootcamp.
+Created a VBA script that pulled each ticker symbol's YoY price change, percentage change, and total volume.
